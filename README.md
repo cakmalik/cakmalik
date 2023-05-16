@@ -3,7 +3,7 @@
 
 **I'm** ✨ _CakMalik_ ✨ Nice to meet you.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as FullStack WebDeveloper on Be-Tech 
 - 🌱 I’m currently learning Golang
