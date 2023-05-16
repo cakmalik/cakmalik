@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**cakmalik/cakmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm** ✨ _CakMalik_ ✨ Nice to meet you.
 
 Here are some ideas to get you started:
 
