@@ -15,7 +15,8 @@
 <!-- - ⚡ Fun fact:  -->
 
 
-### Github Statistic
-<p align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+### Github Statistic<p align="left">
+<a href="https://github.com/cakmalik">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cakmalik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
