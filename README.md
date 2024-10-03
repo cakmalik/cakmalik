@@ -11,7 +11,6 @@
 <!-- - 🤔 I’m looking for help with ChatGpt -->
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: hasinilmalik@gmail.com /  https://wa.me/6285333920007
-- 😄 Pronouns: He He He
 <!-- - ⚡ Fun fact:  -->
 
 
