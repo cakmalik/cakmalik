@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as FullStack WebDeveloper on Be-Tech 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Laravel
 <!-- - 🤔 I’m looking for help with ChatGpt -->
 <!-- - 💬 Ask me about  -->
